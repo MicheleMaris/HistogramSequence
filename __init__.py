@@ -1,1 +1,1 @@
-from HistogramSequence.py import *
+from HistogramSequence import *
